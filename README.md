@@ -1,0 +1,2 @@
+# .github
+Granny Escape Together APK is a thrilling multiplayer escape puzzle game where players team up to solve challenges and escape the eerie mansion of Granny. Navigate through dark rooms, avoid traps, and outsmart Granny to survive. Test your puzzle-solving skills and enjoy an immersive horror experience with friends in this exciting game. Play now and see if you can escape the terrifying world of Granny!
