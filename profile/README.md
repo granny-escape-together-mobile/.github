@@ -88,7 +88,7 @@ Once installed, open the app, create your player profile, and start your escape!
    Yes, the game offers a single-player mode for offline play.
 
 3. **What are the system requirements?**  
-   Android 5.0 or higher, with at least 2GB of RAM and 150MB of free storage.
+   Android 5.0 or higher, with at least 2GB of RAM and 1.80 GB of free storage.
 
 4. **Is there controller support?**  
    Currently, the game supports touch controls, but controller compatibility is planned for future updates.
